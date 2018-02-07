@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <!-- bottom navigation menu -->
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="contact">Save/Open</string>
+    <!-- home screen -->
+    <string name="language_input">Input Language</string>
+    <string name="language_output">Output Language</string>
+    <string name="translate">Translate</string>
+    <string name="translation_hint">Text for translation...</string>
+    <!-- Save/open screen -->
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="Detele">Delete</string>
+    <!-- arrays -->
+    <string-array name="languages">
+        <item>Czech</item>
+        <item>English</item>
+        <item>Deutch</item>
+        <item>French</item>
+        <item>Slovak</item>
+    </string-array>
+    <string-array name="languages_abbr">
+        <item>cs</item>
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>sk</item>
+    </string-array>
+</resources>
